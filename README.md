@@ -20,7 +20,7 @@ Your Flask Blog API should be running (activate the virtual environment by `sour
 
 ## Geting Postman set up
 
-You can either try to manually enter the API endpoint details into Postman (see details for each endpoint below), or you can import the API into Postman by dragging and dropping Simple_Flask_REST-API_example.postman_collection.json into the Postman app to automatically create all of the endpoints.
+You can either try to manually enter the API endpoint details into Postman (see details for each endpoint below), or you can import the API into Postman by dragging and dropping `api_schema.postman_collection.json` into the Postman app to automatically create all of the endpoints.
 
 ## GET: Retrieve All Blog Posts
 
